@@ -1,0 +1,7 @@
+# Ignore these file locations
+
+# Ignore the entire "pics" directory
+pics/
+
+# Ignore a specific file
+Access_permission_screenshot.png
