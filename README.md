@@ -1,0 +1,1 @@
+# Six_axial_cobot-3D-model
